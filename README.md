@@ -63,7 +63,7 @@ in the outer wrapper of a class?
 		> it says <identifier> expected
 
 	* Do you think this message clearly explains what is wrong?
-		> not very clear but I know it's expecting an identifier(which is class in this case)
+		> it's expecting an better identifier name
 
 ### Exercise 2.8
 * Check whether or not it is possible to leave out the word `public` from the outer wrapper of the `TicketMachine` class.
