@@ -57,16 +57,17 @@ in the outer wrapper of a class?
 
 * Edit the source of the `TicketMachine` class to make the change and then close the editor window.
 	* Do you notice a change in the class diagram?
-	* What error message do you get when you now press the compile button?
-	* Do you think this message clearly explains what is wrong?
+		> yes the class block is showing red lines
 
-	> yes the class block is showing red lines
-	> it says <identifier> expected
-	> not very clear but I know it's expecting an identifier(which is class in this case)
+	* What error message do you get when you now press the compile button?
+		> it says <identifier> expected
+
+	* Do you think this message clearly explains what is wrong?
+		> not very clear but I know it's expecting an identifier(which is class in this case)
 
 ### Exercise 2.8
 * Check whether or not it is possible to leave out the word `public` from the outer wrapper of the `TicketMachine` class.
-		> yes it is possible
+	> yes it is possible
 
 ### Exercise 2.9
 * From your earlier experimentation with the ticket machine objects within BlueJ you can probably remember the names of some of the methods – `printTicket`, for instance.
@@ -94,7 +95,7 @@ in the outer wrapper of a class?
 
 ### Exercise 2.10
 * Do you notice any features of the constructor that make it significantly different from the other methods of the class?
-		> Other methods are type specified, the constructor does not need a type
+	> Other methods are type specified, the constructor does not need a type
 
 ### Exercise 2.11
 * What do you think is the type of each of the following fields?
